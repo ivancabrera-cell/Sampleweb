@@ -1,0 +1,51 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+p{
+  margin: 25px;
+  text-align: center;
+  font-size: 24px;
+  color: skyblue;
+}
+
+.contact{
+  text-align: center;
+  font-size: 14px;
+}
+.Email{
+  text-align: center;
+  font-size: 14px;
+}
+.Facebook{
+  text-align: center;
+  font-size: 13px;
+}
+.hobbies h2, .skills h2{
+  font-size: 20px;
+}
+.skills_hobbies{
+  display: flex;
+  justify-content: center;
+  color: lightblue;
+}
+
+.info a{
+  text-decoration: none;
+}
+
+.info{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  background: white;
+  border: solid black 2px;
+  border-radius: 10px;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+}
